@@ -185,3 +185,4 @@ function grossIncome(basicSalary, ...allowances){
        }
        finalOutput = netPayCalculator(inputSalary)
 document.getElementById('salary-id').append(finalOutput)
+	})
